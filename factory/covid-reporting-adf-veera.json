@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-veera",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f17ac5fe-6452-45d6-9139-7f88581c9a69",
+		"tenantId": "941d681e-a844-4fa0-a070-320c4b5069d1"
+	}
+}
